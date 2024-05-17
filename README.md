@@ -12,3 +12,15 @@
 <h3 align ="left">python | 30%</h3>
 <h3 align ="left">java | 10%</h3>
 <h3 align ="left">twailwind | 70%</h3>
+
+<hr>
+<h2 align ="center">الان مشغول کار های...</h2>
+
+<h3 align ="left">css</h3>
+<h3 align ="left">html</h3>
+<h3 align ="left">php</h3>
+<h3 align ="left">bootstrap</h3>
+<h3 align ="left">laravel</h3>
+<h3 align ="left">java script</h3>
+<h3 align ="left">c++</h3>
+
